@@ -38,9 +38,10 @@
       [(zero? m) 1]
       [else (↑ n (⇑ n (sub1 m)))])))
 
-#|We are gonna use higher-order functions(functions that inputs and outputs can be other functions) to generate an arrow with 100 hats|#
-#|G takes an index(number) and spits out a function that looks like one from the above
-|#
+#|We are gonna use higher-order functions(functions whose inputs and outputs
+  can be other functions) to generate an arrow with 100 hats|#
+#|G takes an index(number) and spits out a function that looks like one of
+  the above|#
 
 #|a variation of the Ackermann function,
 the first known general recursion function|#
