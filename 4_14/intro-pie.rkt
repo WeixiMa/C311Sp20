@@ -2,11 +2,11 @@
 
 #|
 
-warriors ->  software engineers : programs
+warriors ⇒  software engineers : programs
 
-mages ->  mathematicians : proofs
+mages ⇒  mathematicians : proofs
 
-witchers -> PL researchers
+witchers ⇒ PL researchers
 |#
 
 #|
