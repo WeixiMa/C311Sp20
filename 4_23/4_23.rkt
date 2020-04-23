@@ -3,7 +3,7 @@
 #|
 bi-directional type checking
 check: Γ ⊢ e ∈ τ, Γ e τ all inputs, boolean output
-- constructors are annoated and checked
+- constructors are annotated and checked
 
 synth: Γ ⊢ e ↑ τ, Γ e inputs, τ output
 - eliminators are synthed
